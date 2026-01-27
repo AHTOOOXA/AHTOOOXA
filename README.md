@@ -1,6 +1,6 @@
 # Anton Safonov
-Fullstack Developer · 3.5+ years · AI agents & production LLM systems
-**Stack:** Python, FastAPI, PostgreSQL, Redis | React, Next.js, TypeScript | RAG, embeddings, Pydantic AI
+
+Fullstack Developer with 3.5+ years of experience and strong product mindset. Python (FastAPI), Vue, React: from API design to user interfaces. Now focused on AI agents and production LLM systems. Use Claude Code daily to accelerate delivery.
 
 ### Projects
 - 🔨 **Bloopy** — AI personal assistant with memory. DSPy-powered entity extraction pipeline (classify → extract → match → store), knowledge graph, pgvector embeddings, MLflow observability. Next.js + FastAPI + Telegram bot.
@@ -10,5 +10,6 @@ Fullstack Developer · 3.5+ years · AI agents & production LLM systems
 - **[easy-cv](https://github.com/AHTOOOXA/easy-cv)** — Claude Code skills for job search. CV generation (YAML → LaTeX → PDF), cover letters, interview prep, salary negotiation. Multi-variant, bilingual, with PDF overflow analysis.
 
 ### Contact
+
 Open to: Backend/Fullstack/AI roles (remote) · Founding engineer · Project work
 [LinkedIn](https://www.linkedin.com/in/anton-safonov-dev/) · [Telegram](https://t.me/anton_whatever) · anton.safonov.loves.cats@gmail.com
