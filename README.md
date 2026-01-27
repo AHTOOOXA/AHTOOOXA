@@ -12,4 +12,5 @@ Fullstack Developer with 3.5+ years of experience and strong product mindset. Py
 ### Contact
 
 Open to: Backend/Fullstack/AI roles (remote) · Founding engineer · Project work
+
 [LinkedIn](https://www.linkedin.com/in/anton-safonov-dev/) · [Telegram](https://t.me/anton_whatever) · anton.safonov.loves.cats@gmail.com
