@@ -2,12 +2,12 @@
 
 I'm Anton, a fullstack engineer. For almost 5 years I've built Python backends and React frontends, mostly in small product teams where one person takes a feature from the problem to production. On the side I build my own products: a tarot app with 1,500+ users and open-source tools for poker players.
 
-Open to remote backend or fullstack roles: Telegram [@tony_safonov](https://t.me/tony_safonov).
+Open to remote backend or fullstack roles. Case studies and CV: **[tonysafonov.com](https://tonysafonov.com)** · Telegram [@tony_safonov](https://t.me/tony_safonov).
 
 **Stack:** Python (FastAPI), PostgreSQL, Redis, ClickHouse, React/Next.js, TypeScript, Vue. Claude Code every day.
 
 ### Work
-- **KEYGO** (short-term rentals): owner payouts that finance closes without a developer ($200K+/month), platform-wide auth migration from JWT to Redis sessions with zero downtime, client frontend rebuild on Next.js (LCP 4.7 s → 0.9 s), agentic development with Claude Code rolled out across the team.
+- **KEYGO** (short-term rentals): owner payouts that finance closes without a developer ($200K+/month), platform-wide auth migration from JWT to Redis sessions with zero downtime, client frontend rebuild on Next.js (LCP 4.7 s → 0.8 s), agentic development with Claude Code rolled out across the team. [Case study](https://tonysafonov.com/work/keygo/).
 - **Realytics** (competitive intelligence for food delivery): async ETL at 20 GB+/day, an LLM service that turns messy text into structured data, an SLA-bound B2B API for a large European client.
 - **e-comet** (analytics for marketplace sellers): high-load ClickHouse API, 300 GB/day on top of 8 TB+, latency down 40%.
 
@@ -16,7 +16,7 @@ Open to remote backend or fullstack roles: Telegram [@tony_safonov](https://t.me
 - **[Gramkit](https://github.com/AHTOOOXA/gramkit)**: OSS starter for web apps and Telegram Mini Apps, extracted from the product above. FastAPI + Next.js/Vue, OpenAPI → TypeScript hooks, auth and payments out of the box.
 - **[Open Holdem Manager](https://github.com/AHTOOOXA/open-holdem-manager)**: open-source poker tracker for macOS and Windows. Hand history parsing, DuckDB analytics, stats and graphs.
 - **[tony-skills](https://github.com/AHTOOOXA/tony-skills)**: Claude Code skills, including `pishi` (Russian prose for a human reader, with a linter).
-- **MaxStat**: production-planning ERP for a manufacturer with 200+ employees.
+- **MaxStat**: production planning for a metalwork factory, from requirements to rollout. Took ~70 hours a month of manual planning work off the workshop heads.
 
 ### Contact
-[Telegram](https://t.me/tony_safonov) · anton.safonov.loves.cats@gmail.com
+[tonysafonov.com](https://tonysafonov.com) · [Telegram](https://t.me/tony_safonov) · anton.safonov.loves.cats@gmail.com
